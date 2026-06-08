@@ -45,6 +45,7 @@ https://github.com/kilianMeddas/GriffithAI
 
 ### 🌐 Full-Stack Web App
 React frontend with Java/Python backend API.
+https://github.com/kilianMeddas/HappyTogether-Web-Project
 
 ### 📊 Machine Learning Projects
 Housing prediction & image classification models.
