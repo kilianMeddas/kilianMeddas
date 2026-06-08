@@ -49,6 +49,7 @@ React frontend with Java/Python backend API.
 ### 📊 Machine Learning Projects
 Housing prediction & image classification models.
 https://github.com/kilianMeddas/housing-kilian-meddas-docker
+
 ---
 
 ## Contact
