@@ -41,16 +41,14 @@ I enjoy turning ideas into real-world applications using modern technologies.
 
 ### 🤖 AI Assistant (RAG System)
 AI chatbot using retrieval-augmented generation with document-based context.
+https://github.com/kilianMeddas/GriffithAI
 
 ### 🌐 Full-Stack Web App
 React frontend with Java/Python backend API.
 
 ### 📊 Machine Learning Projects
 Housing prediction & image classification models.
-
-### ⚙️ API & Backend Systems
-REST APIs with Dockerized deployment.
-
+https://github.com/kilianMeddas/housing-kilian-meddas-docker
 ---
 
 ## Contact
