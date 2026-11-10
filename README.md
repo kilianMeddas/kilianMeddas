@@ -24,7 +24,6 @@ I build projects across **systems programming, web development, and AI**. I enjo
 | --- | --- | --- |
 | [MyASan](https://github.com/kilianMeddas/myasan) | Educational heap diagnostic library: allocation tracking, invalid and double-free detection, explicit range checks using shadow memory, and leak reports. | C99, `LD_PRELOAD`, `mmap`, Make |
 | [MiniGit](https://github.com/kilianMeddas/minigit) | Educational implementation of selected Git internals, with repository initialization, blob storage, SHA-1 hashing, and file staging in a custom index. | C99, OpenSSL, Criterion, Make |
-
 | [Minimake](https://github.com/kilianMeddas/minimake) | Simplified Unix make implementation with Makefile parsing, variable expansion, dependency resolution, timestamp-based builds, and shell command execution. | C99, POSIX, Criterion, Make |
 
 ### 🌐 Web & AI Applications
